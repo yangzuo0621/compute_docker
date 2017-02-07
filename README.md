@@ -1,5 +1,6 @@
 Compute Dockerfile
 =================
-
-1. make init
-2. docker build -t name .
+```
+make init
+docker build -t name .
+```
